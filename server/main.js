@@ -3,6 +3,7 @@ import "./methods";
 import Startup from "./startup";
 import Security from "./security";
 import { Logger } from "/server/api";
+// import Init from "/init";
 
 // handle any unhandled Promise rejections because
 // Node 8 no longer swallows them
