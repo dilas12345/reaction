@@ -1,0 +1,11 @@
+{
+  "ROOT_URL": "",
+  "MAIL_URL": "",
+  "reaction": {
+    "REACTION_USER": "joseph dilas",
+    "REACTION_AUTH": "Derickche47*",
+    "REACTION_EMAIL": "josephdilas@gmail.com"
+  },
+  "REACTION_LOG_LEVEL": "info",
+  "public": {}
+}
