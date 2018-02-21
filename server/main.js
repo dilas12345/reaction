@@ -1,3 +1,4 @@
+/*eslint-env es_modules */
 import { Meteor } from "meteor/meteor";
 import "./methods";
 import Startup from "./startup";
